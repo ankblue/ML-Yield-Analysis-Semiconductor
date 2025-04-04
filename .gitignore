@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Ignore Spyder settings
+.spyderproject
+.spyproject
+.spyderworkspace
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Anaconda environment files
+*.conda
+
+# Ignore logs
+*.log
